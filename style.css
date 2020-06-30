@@ -191,6 +191,8 @@ button:hover{
     text-align: center;
     padding: 5% 0px;
     margin: 0px;
+    color: #07ddff;
+    padding-top: 5%
 }
 
 .work-width{
@@ -224,8 +226,9 @@ button:hover{
 	justify-content: center;
 }
 
-#work-heading{
+#work-heading-client{
 	color: #ff1671;
+	padding-top: 3%;
 }
 
 #client-words {
